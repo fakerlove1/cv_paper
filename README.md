@@ -16,6 +16,8 @@
 
 # 1. 全监督
 
+1
+
 ## 1.1 图像分类
 
 | **Date** | **Meeting** | **Title** | **Code** | **Reference** | **Read** | **Reappearance** |
