@@ -1,0 +1,1 @@
+[[2204.01278\] SPFNet:Subspace Pyramid Fusion Network for Semantic Segmentation (arxiv.org)](https://arxiv.org/abs/2204.01278)

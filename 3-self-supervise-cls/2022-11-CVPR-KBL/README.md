@@ -1,0 +1,1 @@
+[[2211.14715\] A Knowledge-based Learning Framework for Self-supervised Pre-training Towards Enhanced Recognition of Medical Images (arxiv.org)](https://arxiv.org/abs/2211.14715)

@@ -1,0 +1,1 @@
+[[1807.03748\] Representation Learning with Contrastive Predictive Coding (arxiv.org)](https://arxiv.org/abs/1807.03748)

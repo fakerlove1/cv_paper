@@ -1,0 +1,1 @@
+[[2110.02178\] MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer (arxiv.org)](https://arxiv.org/abs/2110.02178)

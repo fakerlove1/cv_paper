@@ -1,0 +1,1 @@
+[[2210.08403\] Semantic Segmentation with Active Semi-Supervised Representation Learning (arxiv.org)](https://arxiv.org/abs/2210.08403)

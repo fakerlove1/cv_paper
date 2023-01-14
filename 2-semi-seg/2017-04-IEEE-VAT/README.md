@@ -1,0 +1,1 @@
+[[1704.03976\] Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning (arxiv.org)](https://arxiv.org/abs/1704.03976)

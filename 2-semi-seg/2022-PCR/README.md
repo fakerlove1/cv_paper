@@ -1,0 +1,1 @@
+[[2210.04388\] Semi-supervised Semantic Segmentation with Prototype-based Consistency Regularization (arxiv.org)](https://arxiv.org/abs/2210.04388)
